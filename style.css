@@ -1,0 +1,76 @@
+
+    .section-1__contact{
+        background-color: orangered;
+        color: white;
+        text-decoration: none;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    *{
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .container{
+        padding: 50px;
+    }
+
+
+    body{
+        font-family: "Young Serif", serif;
+    }
+    .section-1{
+        background-color: black;
+        color: white;
+        padding: 20px;
+    }
+    .section-1__name{
+        font-size: 60px;
+    }
+    .section-1__role{
+        padding: 10px;
+        font-size: 30px;
+    }
+   .section-2{
+    padding: 10px;
+    
+   }
+   .section-2__title{
+    padding: 10px;
+   }
+   .section-3{
+background-color: #6462fd;
+   padding: 20px;
+   border-radius: 20px;
+   margin-top: 20px;
+   display: inline-block;
+   height: 200px;
+   vertical-align: top;
+   
+}
+li{
+    list-style: none;
+}
+.section-4{
+    background-color: orangered;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: inline-block;
+height: 200px;
+}
+li{
+    list-style: none;
+}
+
+.s-5{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+      
